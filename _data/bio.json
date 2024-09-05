@@ -5,17 +5,18 @@
     "picture": "https://github.com/kambergjohnson.png",
     "email": "corriero@hawaii.edu",
     "phone": "510-907-1764",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://lucascorriero.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://github.com/lucascorriero" },
+      { "network": "github", "username": "lucascorriero", "url": "https://github.com/lucascorriero" },
       { "network": "linkedin", "username": "lucascorriero", "url": "https://www.linkedin.com/in/lucas-corriero-768911263/" }
     ]
   },
   "interests": [
     { "name": "Artificial Intelligence" },
     { "name": "Data Science" },
+    { "name": "Algorithms and Data Structures" }
   ],
   "skills": [
     {
@@ -40,27 +41,22 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Alameda Parks & Recreation Department",
+      "position": "Swim Instructor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2021-06-14",
+      "endDate": "2022-04-25",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Planned classes covering different ages and
+skill levels to prepare students for basic and
+advanced swimming needs."
+        "Learned new skills and applied them to daily tasks to
+improve efficiency and productivity."
+"Actively listened to customers, handled concerns quickly, and escalated major issues to
+supervisor."
+ "Established clear objectives for all lessons, units,
+and projects and communicate those objectives to students.",
       ]
     }
   ],
