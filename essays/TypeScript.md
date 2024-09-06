@@ -15,7 +15,7 @@ labels:
   <img width="661" alt="Screenshot 2024-09-01 at 5 50 39 PM" src="https://github.com/user-attachments/assets/5413ad8c-6970-4055-be8f-f3e79793257c">
 
 
-It began on a Sunday. The first destination on my typescript journey was going to FreeCodeCamp and completing their JavaScript and ES6 tutorials. I had a smile on my face and was equipped with a foolhardy confidence in my ability to complete these exercises promptly. I believed I could breeze through these exercises and be familiar with JavaScript within an hour or two. Things did not go to plan. 
+The first destination on my typescript journey was going to FreeCodeCamp and completing their JavaScript and ES6 tutorials. I had a smile on my face and was equipped with a foolhardy confidence in my ability to complete these exercises promptly. I believed I could breeze through these exercises and be familiar with JavaScript within an hour or two. Things did not go to plan. 
 
 When I had finally completed all 142 exercises, 6 hours had passed. It was 2:30 am and the only thing keeping me awake was the minute progress I’d see in the percentage bar after I completed yet another exercise. Just another 10 percent I told myself to must up the motivation to keep going. Those final questions were by far the most difficult, not because of their content but because I had so many new ideas being introduced, everything was getting mixed up. It felt like I was wading through a dense fog of new concepts and tangled syntax. When I finally saw the light (the 100% completion notification), I went to bed and dreamt sweet dreams of JavaScript. 
 
