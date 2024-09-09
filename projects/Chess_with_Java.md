@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/pexels-felixmittermeier-957312.png
+image: img/micromouse/pexels-felixmittermeier-957312.pn
 title: "Checkmate in Code: Chess with Java"
 date: 2022
 published: true
