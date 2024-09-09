@@ -23,4 +23,4 @@ I was the sole developer responsible for the entire creation of the interactive 
 
 In this project, I gained experience with full-stack web application design and associated technologies, 
  
-Source: <a href="https://readymag.website/4739260">theVacay/vacay</a>
+Source: <a href="https://readymag.website/4739260">Mywebsite</a>
