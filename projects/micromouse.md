@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/pexels-felixmittermeier-957312.png
 title: "Checkmate in Code: Chess with Java"
 date: 2022
 published: true
@@ -12,9 +12,7 @@ summary: "I created a chess game with Java"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/pexels-felixmittermeier-957312.png" class="img-thumbnail" >
 </div>
 
 The project was to create a playable game using Java. I chose to make chess, I was tasked with the front-end and back-end components of the game. I conducted many tests to check that the system functioned correctly in all scenarios and did not encounter any errors. For each move the player made on the board, the back end had to update the positions of the pieces and then reflect that change in the user interface. The user can select a piece and designate where the piece will go.
