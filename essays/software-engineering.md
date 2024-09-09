@@ -14,5 +14,5 @@ User experience is also quite interesting. The mix of how designers think it sho
 
 In software development, I am committed to improving my skills across various facets of the field. This includes learning different programming tools like JavaScript for web work and Python for algorithms. I'm interested in learning to manage projects with tools like Git. In the future, I want to use what I know about algorithms and user experience to build real projects. I want to work on projects that use complex algorithms also whilst prioritizing user experience, creating applications that are both powerful and user-friendly. Pursuing internships, contributing to open-source projects, and working on personal projects will be crucial in order to achieve these goals. By expanding my technical expertise and gaining hands-on experience, I aim to become a well-rounded software engineer capable of tackling diverse challenges and contributing to innovative solutions in the field.
 
-<img width="400px" img class="img-fluid" src="../img/vacay/IMG_6970.png">
+<img width="300px" img class="img-fluid" src="../img/vacay/IMG_6970.png">
 
