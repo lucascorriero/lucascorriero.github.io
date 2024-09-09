@@ -13,14 +13,14 @@ summary: "A responsive website for an English class."
 
 <img class="img-fluid" src="../img/vacay/pexels-josh-willink-11499-701016.png">
 
-Vacay is a website that I created as project for my final in Eng 271, Spring 2024. The project helped me learn how to design and implement a responsive web site.
+Vacay is a website that I created as a project for my final in Eng 271, Spring 2024. The project helped me learn how to design and implement a responsive website. The primary feature of the site was an image-hover effect, where the quotes from the book Wild by Sheryl Strayed would appear in front of the image when users hovered over it. Additionally, the website featured background videos to enhance the visual and auditory experience. The goal was to combine interactive elements with multimedia content to create an engaging and immersive platform related to the book being studied.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Vacay is implemented using [Readymag](http://readymag.com)
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I was the sole developer responsible for the entire creation of the interactive website. This included designing the user interface, implementing the hover effects for displaying quotes, and integrating background videos. Designing an interactive and visually appealing website highlighted the importance of user experience. I learned to create intuitive interfaces that are both functional and enjoyable for users. Integrating background videos into the website taught me about handling multimedia content and optimizing it for web performance. I learned how to balance visual aesthetics with functional design.
 
-Here is some example code to illustrate Simple Schema use:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+
+In this project, I gained experience with full-stack web application design and associated technologies, 
  
 Source: <a href="https://readymag.website/4739260">theVacay/vacay</a>
