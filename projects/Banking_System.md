@@ -12,7 +12,9 @@ labels:
   - Back-end
 summary: "A banking system I developed for ICS 212."
 ---
-
+<div class="text-center p-4">
+  <img width="200px" src="../img/pexels-pixabay-50987.png" class="img-thumbnail" >
+</div>
 The project was to create a banking system, it was part of my ICS 212 course here at UH Manoa. I was tasked with the front-end and back-end components of the system. Extensive testing was conducted to verify that the system functioned correctly in all scenarios and did not encounter any errors. For each entry into the database, we were told to ask for the user’s name, address, and bank number. The user can add a new account, print all accounts, find a specific account, delete their account, and exit the program.
 
 I was solely responsible for the design and implementation of the entire banking system. As the only developer on the project, I completed all aspects of the development process, including designing the system architecture, coding both the front-end and back-end, and performing comprehensive testing to ensure the system's reliability and correctness
