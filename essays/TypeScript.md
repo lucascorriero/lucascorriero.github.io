@@ -12,7 +12,7 @@ labels:
 ---
 
 
-  <img width="400" alt="Screenshot 2024-09-01 at 5 50 39 PM" src="https://github.com/user-attachments/assets/5413ad8c-6970-4055-be8f-f3e79793257c">
+  <img width="300" alt="Screenshot 2024-09-01 at 5 50 39 PM" src="https://github.com/user-attachments/assets/5413ad8c-6970-4055-be8f-f3e79793257c">
 
 
 The first destination on my typescript journey was going to FreeCodeCamp and completing their JavaScript and ES6 tutorials. I had a smile on my face and was equipped with a foolhardy confidence in my ability to complete these exercises promptly. I believed I could breeze through these exercises and be familiar with JavaScript within an hour or two. Things did not go to plan. 
