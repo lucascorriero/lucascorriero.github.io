@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pexels-pixabay-50987.png
+image: img width="200px" img height="200px" img/pexels-pixabay-50987.png
 title: "Banking System"
 date: 2024
 published: true
