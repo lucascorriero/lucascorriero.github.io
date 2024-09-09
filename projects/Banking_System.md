@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img width="200px" img height="200px" img/pexels-pixabay-50987.png
+image: img/pexels-pixabay-50987.png
 title: "Banking System"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A banking system I developed for ICS 212."
 ---
 <div class="text-center p-4">
-  <img width="200px" img height="200px" src="../img/pexels-pixabay-50987.png" class="img-thumbnail" >
+  <img width="200px" src="../img/pexels-pixabay-50987.png" class="img-thumbnail" >
 </div>
 The project was to create a banking system, it was part of my ICS 212 course here at UH Manoa. I was tasked with the front-end and back-end components of the system. Extensive testing was conducted to verify that the system functioned correctly in all scenarios and did not encounter any errors. For each entry into the database, we were told to ask for the user’s name, address, and bank number. The user can add a new account, print all accounts, find a specific account, delete their account, and exit the program.
 
