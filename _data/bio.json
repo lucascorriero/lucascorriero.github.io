@@ -14,8 +14,8 @@
     ]
   },
   "interests": [
+    { "name": "UX" },
     { "name": "Artificial Intelligence" },
-    { "name": "Data Science" },
     { "name": "Algorithms and Data Structures" }
   ],
   "skills": [
