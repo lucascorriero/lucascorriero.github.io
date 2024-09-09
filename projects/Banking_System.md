@@ -6,8 +6,10 @@ title: "Banking System"
 date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - C++
+  - C
+  - Front-end
+  - Back-end
 summary: "A banking system I developed for ICS 212."
 ---
 
