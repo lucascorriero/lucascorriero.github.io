@@ -11,7 +11,7 @@ labels:
 summary: "A responsive website for an English class."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/pexels-josh-willink-11499-701016.png">
 
 Vacay is a website that I created as project for my final in Eng 271, Spring 2024. The project helped me learn how to design and implement a responsive web site.
 
