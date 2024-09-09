@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/pexels-josh-willink-11499-701016.png
 title: "Pacific Crest Trail"
 date: 2015
 published: true
