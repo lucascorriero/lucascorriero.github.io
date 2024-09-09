@@ -21,4 +21,4 @@ I was solely responsible for the design and implementation of the entire banking
 After completing the banking system, I was much more familiar with C++ and C. It provided me with valuable experience in testing. I learned how small errors could impact the overall functionality of the system. This was one of the first projects where the user interface had so much that users could interact with and verifying input was difficult. It also provided me with some useful experience in database management.
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/lucascorriero/Banking-System"><i class="large github icon "></i>lucascorriero/ics-212-banking-system</a>
