@@ -22,4 +22,4 @@ I was the sole developer responsible for the creation of this game. My responsib
 What I learned the most from this experience was attention to detail, there were a lot of different files and an error in one was difficult to detect. Lots of debugging taught me that I needed to make sure that each component was solid and not overly complicated, because detecting and locating the bug was difficult. This project also gave me further experience with Java.  
 
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Source: <a href="https://github.com/lucascorriero/Chess-with-Java"><i class="large github icon "></i>lucascorriero/Chess-with-java</a>
