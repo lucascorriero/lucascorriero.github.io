@@ -10,7 +10,7 @@ labels:
 
 Smart Questions are important for smart software engineers because they can significantly affect how questions are answered. Smart questions provide clarity and context for the readers. Smart questions can provide support for others experiencing similar issues. When software engineers utilize Smart Questions, they help accelerate the problem-solving process. One of the ways Smart Questions can help accelerate the problem-solving process is by recording what resources have been already searched for the answer to the question. Some of these resources include archives, google, manuals, and FAQs. By including these details, smart questions also respect the time and knowledge of others, users, and or professionals who could help quicker after knowing what resources were not helpful, it possibly reduces the amount of time it takes to receive an answer.
 Shown below is an example of a Not so Smart Question as well as a Smart Question
-
+ 
 **Source:** <a href="https://readymag.website/4739260">Not so Smart Question</a>
 **Summary:** The not-so-smart question asks, “What is the difference between the units of measure px, dip, dp, and sp?” This question is asking for general information about different measurement units used in programming.
 
