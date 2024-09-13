@@ -7,3 +7,4 @@ date: 2024-09-12
 published: true
 labels:
 ---
+Source: <a href="https://readymag.website/4739260">PacificCrestTrail</a>
