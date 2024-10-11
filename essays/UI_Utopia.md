@@ -29,3 +29,5 @@ I used to try and reinvent the wheel quite a few times when using simple Bootstr
 Now, I can easily add complex functionalities by just adding a few classes, letting me focus more on the creative aspect of designing websites rather than being bogged down with the technical details.
 This change not only enhances my productivity but also brings out a sense of greater creativity in me, where I can experiment with different styles and layouts without all the usual constraints of manual coding.
 
+This is a website I built using Bootstrap 5: <img width="300px" img class="img-fluid" src="../img/vacay/imageedit_1_2131293218.jpg">
+
