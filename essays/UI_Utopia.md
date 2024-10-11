@@ -14,7 +14,7 @@ I have not fully learned how to utilize Bootstrap 5, but my work speed has doubl
 Efficiency is such a big topic, people want to accomplish more, Bootstrap 5 helps you accomplish this.
 The learning curve was steep, but I’m glad I stuck with it. 
 
-	The classes for setting margins and padding within Bootstrap 5 are invaluable, I don’t know how much time I would have wasted, fiddling with things in the HTML and CSS files if not for the margin and padding classes.
+The classes for setting margins and padding within Bootstrap 5 are invaluable, I don’t know how much time I would have wasted, fiddling with things in the HTML and CSS files if not for the margin and padding classes.
 Having classes available to you from the second you import Bootstrap 5 is also exceptionally beneficial, now I’m not starting from scratch.
 There are so many classes in Bootstrap 5 I haven’t learned about but as I said earlier about the margin and padding classes, the ones that I have learned already have increased my work speed significantly. 
 
