@@ -40,4 +40,5 @@ Key features of **Dear Sunshine** include:
 
 We built it using PostgreSQL, Prisma, and Node.Js and we used GitHub for source code management
 
+Test it here: <a href="[https://readymag.website/4739260](https://dearsunshine.vercel.app)">Dear Sunshine</a>
 
