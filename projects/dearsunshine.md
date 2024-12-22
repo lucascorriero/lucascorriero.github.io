@@ -41,4 +41,5 @@ Key features of **Dear Sunshine** include:
 We built it using PostgreSQL, Prisma, and Node.Js and we used GitHub for source code management
 
 Test it here: <a href="[https://dearsunshine.vercel.app]">Dear Sunshine</a>
+[Dear Sunshine](https://dearsunshine.vercel.app)
 
