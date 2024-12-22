@@ -9,14 +9,14 @@ labels:
 ---
 <div class="container">
   <div class="row text-center">
-    <div class="col-md-4 p-2">
+    <div class="col-md-6 p-2">
       <img width="300px" height="300px" src="../img/code.webp" class="img-thumbnail">
     </div>
-    <div class="col-md-4 p-2">
-      <img width="250px" height="250px" src="../img/dress.jpg" class="img-thumbnail">
+    <div class="col-md-6 p-2">
+      <img width="200px" height="200px" src="../img/dress.jpg" class="img-thumbnail">
     </div>
   </div>
-</div>  
+</div>
 
 Coding standards are a divisive subject; you either love or hate them. ⁤⁤They are a necessary evil, though I will admit I find it tedious to ensure all my code is spaced correctly and nicely formatted. ⁤⁤However, the time it takes me to reread my code after not seeing it for some time is greatly reduced, all thanks to coding standards. ⁤
 
