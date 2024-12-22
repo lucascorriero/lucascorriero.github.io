@@ -66,6 +66,8 @@ Key features of **Dear Sunshine** include:
 We built it using PostgreSQL, Prisma, and Node.Js and we used GitHub for source code management
 
 [Visit the deployed application](https://dearsunshine.vercel.app)
+[View the GitHub Organization](https://github.com/dear-sunshine)
+
 
 In the development of Dear Sunshine, I worked mostly on the design and front-end user experience. I created the most of the design mockups and developed an intuitive, user-friendly interface. I also contributed to back-end development, such as creating features that allow users to put their signature on their profile as their signature and salutation. This feature automatically personalizes responses by adding a salutation while replying to others, such as "Dear [username]", to add a touch of community and friendliness.
 
