@@ -8,8 +8,35 @@ published: true
 labels:
   - Web Design
   - UI
+  - Front-End
+  - Back-End
 summary: "A website made to provide users with a supportive space to share their thoughts and receive kind and uplifting responses."
 ---
+
+<div class="container">
+  <div class="row text-center">
+    <div class="col-md-4 p-4">
+      <img width="200px" src="../img/m3-home2.png" class="img-thumbnail">
+    </div>
+    <div class="col-md-4 p-4">
+      <img width="200px" src="../img/m3-write.png" class="img-thumbnail">
+    </div>
+    <div class="col-md-4 p-4">
+      <img width="200px" src="../img/m3-reply.png" class="img-thumbnail">
+    </div>
+  </div>
+  <div class="row text-center">
+    <div class="col-md-4 p-4">
+      <img width="200px" src="../img/m3-profile.png" class="img-thumbnail">
+    </div>
+    <div class="col-md-4 p-4">
+      <img width="200px" src="../img/m3-health.png" class="img-thumbnail">
+    </div>
+    <div class="col-md-4 p-4">
+      <img width="200px" src="../img/m3-board.png" class="img-thumbnail">
+    </div>
+  </div>
+</div>
 
 In my 314 class, Dear Sunshine was my final project. I worked with a group to help create this website meant to provide users with a space for emotional support and encouragement. Users can post letters anonymously to a "letter board" to share their thoughts or seek uplifting messages. Community members can reply with supportive messages or reactions, fostering a positive and kind environment.
 
