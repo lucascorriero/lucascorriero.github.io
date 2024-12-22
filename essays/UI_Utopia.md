@@ -7,6 +7,7 @@ date: 2024-10-10
 published: true
 labels: 
  - TypeScript
+ - Bootstrap5
 ---
 UI frameworks can take as long to learn as a new coding language because they are extremely dense with content, but that works to its advantage. 
 After learning how to use Bootstrap 5, I initially felt opposed to it, why am I learning how to do the same thing differently? 
