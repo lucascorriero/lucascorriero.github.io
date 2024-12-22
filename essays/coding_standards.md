@@ -6,6 +6,7 @@ title: "Coding Standards: Because Even Code Needs a Dress Code"
 date: 2024-09-26
 published: true
 labels:
+ - Coding Standards
 ---
 <div class="container">
   <div class="row text-center">
