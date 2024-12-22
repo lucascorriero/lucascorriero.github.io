@@ -17,5 +17,5 @@ When a number of guitarists are playing in a band, one follows the same song, bu
 
 Design patterns, in a nutshell, are the tabs for programming. They provide developers with a straightforward, repeatable method of solving common coding problems. In the same way that guitar tabs enable musicians to learn songs without understanding every single detail, design patterns allow developers to write clean, maintainable code without having to reinvent the wheel every time. By learning design patterns, developers can solve problems much faster, just like a guitarist who has learned tabs to play a song. And with experience, these patterns start becoming second nature, and a developer's mind will shift to the bigger picture of designing software that works-beautifully, just as in playing music beautifully.
 
-This is a website I built using Bootstrap 5: <img width="300px" img class="img-fluid" src="../img/vacay/lacquer-color-granite-metal-brick.jpg">
+ <img width="300px" img class="img-fluid" src="../img/vacay/lacquer-color-granite-metal-brick.jpg">
 
