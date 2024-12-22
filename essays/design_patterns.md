@@ -6,6 +6,8 @@ title: "How Design Patterns Are Like Guitar Tabs"
 date: 2024-12-05
 published: true
 labels:
+ - Design Patterns
+ - Software Architecture
 ---
  <img width="300px" img class="img-fluid" src="../img/vacay/lacquer-color-granite-metal-brick.jpg">
 
