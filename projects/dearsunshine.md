@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/favicon.ico
+image: img/vacay/faviconn.ico
 title: "Dear Sunshine"
 date: 2024
 published: true
