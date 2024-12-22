@@ -13,7 +13,7 @@ labels:
       <img width="400px" height="400px"src="../img/code.webp" class="img-thumbnail">
     </div>
     <div class="col-md-4 p-2">
-      <img width="400px" height="400px src="../img/dress.jpg" class="img-thumbnail">
+      <img width="400px" height="400px" src="../img/dress.jpg" class="img-thumbnail">
     </div>
   </div>
 </div>  
