@@ -15,25 +15,25 @@ summary: "A website made to provide users with a supportive space to share their
 
 <div class="container">
   <div class="row text-center">
-    <div class="col-md-4 p-4">
-      <img width="200px" src="../img/m3-home2.png" class="img-thumbnail">
+    <div class="col-md-4 p-2">
+      <img width="300px" src="../img/m3-home2.png" class="img-thumbnail">
     </div>
-    <div class="col-md-4 p-4">
-      <img width="200px" src="../img/m3-write.png" class="img-thumbnail">
+    <div class="col-md-4 p-2">
+      <img width="300px" src="../img/m3-write.png" class="img-thumbnail">
     </div>
-    <div class="col-md-4 p-4">
-      <img width="200px" src="../img/m3-reply.png" class="img-thumbnail">
+    <div class="col-md-4 p-2">
+      <img width="300px" src="../img/m3-reply.png" class="img-thumbnail">
     </div>
   </div>
   <div class="row text-center">
-    <div class="col-md-4 p-4">
-      <img width="200px" src="../img/m3-profile.png" class="img-thumbnail">
+    <div class="col-md-4 p-2">
+      <img width="300px" src="../img/m3-profile.png" class="img-thumbnail">
     </div>
-    <div class="col-md-4 p-4">
-      <img width="200px" src="../img/m3-health.png" class="img-thumbnail">
+    <div class="col-md-4 p-2">
+      <img width="300px" src="../img/m3-health.png" class="img-thumbnail">
     </div>
-    <div class="col-md-4 p-4">
-      <img width="200px" src="../img/m3-board.png" class="img-thumbnail">
+    <div class="col-md-4 p-2">
+      <img width="300px" src="../img/m3-board.png" class="img-thumbnail">
     </div>
   </div>
 </div>
