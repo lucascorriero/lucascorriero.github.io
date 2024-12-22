@@ -7,6 +7,16 @@ date: 2024-09-26
 published: true
 labels:
 ---
+<div class="container">
+  <div class="row text-center">
+    <div class="col-md-4 p-2">
+      <img width="500px" src="../img/code.webp" class="img-thumbnail">
+    </div>
+    <div class="col-md-4 p-2">
+      <img width="500px" src="../img/dress.jpg" class="img-thumbnail">
+    </div>
+  </div>
+</div>  
 
 Coding standards are a divisive subject; you either love or hate them. ⁤⁤They are a necessary evil, though I will admit I find it tedious to ensure all my code is spaced correctly and nicely formatted. ⁤⁤However, the time it takes me to reread my code after not seeing it for some time is greatly reduced, all thanks to coding standards. ⁤
 
