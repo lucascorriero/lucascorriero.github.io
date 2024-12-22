@@ -6,6 +6,9 @@ title: "Key Takeaways from ICS 314"
 date: 2024-12-19
 published: true
 labels:
+ - Agile Development
+ - Configuration Management
+ - User Interface Frameworks
 ---
 ICS 314 taught me quite a bit about software engineering, but some of the lessons that really stuck with me dealt with User Interface Frameworks, Configuration Management, and Agile Project Management. Each one of these topics taught me something and gave me hands-on experience that greatly expanded my view on modern software development practices. 
 
