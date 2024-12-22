@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/pexels-josh-willink-11499-701016.png
+image: img/vacay/sunstamp.png
 title: "Dear Sunshine"
 date: 2024
 published: true
@@ -39,3 +39,5 @@ Key features of **Dear Sunshine** include:
 
 
 We built it using PostgreSQL, Prisma, and Node.Js and we used GitHub for source code management
+
+
