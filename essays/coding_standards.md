@@ -7,6 +7,8 @@ date: 2024-09-26
 published: true
 labels:
  - Coding Standards
+ - ESLint
+ - Software Engineering
 ---
 <div class="container">
   <div class="row text-center">
