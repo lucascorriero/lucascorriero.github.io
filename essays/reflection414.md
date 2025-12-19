@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Reflection on taking 414: Software Engineering"
-# All dates must be YYYY-MM-DD format!
+# all dates must be YYYY-MM-DD format!
 date: 2026-12-18
 published: true
 labels: 
