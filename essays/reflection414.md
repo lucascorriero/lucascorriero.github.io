@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Reflection on taking 414: Software Engineering"
+# All dates must be YYYY-MM-DD format!
+date: 2026-12-18
+published: true
+labels: 
+ - Git
+ - Figma
+ - Next.js
+---
 ICS 414 taught me a lot about software development, and some of the most important things I learned are in Version Control with Git and GitHub, UI/UX Design with Figma, and Front-End Development with Next.js. For each subject, I gained more experience that helped me improve my professional software development toolkit.
 
 Git and GitHub Version Control was definitely one of the most valuable things I learned from this class. Version control is a mechanism that tracks all the changes that happen to your code over time. This is very helpful to programmers who collaborate on projects to avoid messing up each other's code and to revisit previous code when things don’t work. Prior to ICS 414, I knew only the basics about Git and struggled when working on assignments. Throughout the class, I was able to feel more confident when making new repositories and committing code. The part I grew the most from was solving conflicts between files. It was intimidating because I didn’t want to lose the progress I had made or damage my team and I’s code but the more I did it the more I learned what each problem was and felt more comfortable. Something else that was valuable from taking 414 was I learned that version control is not only about Git commands; it is also about code organization and teamwork.
